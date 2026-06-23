@@ -403,7 +403,7 @@ install.packages(paquetes)
 #    y presionar "Knit to HTML"
 ```
 
-> ⚠️ **Nota sobre reproducibilidad:** todos los métodos estocásticos (t-SNE, k-means, RF, partición train/test) usan `set.seed(123)` o `set.seed(1234)`, garantizando resultados idénticos en cada ejecución.
+> **Nota sobre reproducibilidad:** todos los métodos estocásticos (t-SNE, k-means, RF, partición train/test) usan `set.seed(123)` o `set.seed(1234)`, garantizando resultados idénticos en cada ejecución.
 
 ---
 
