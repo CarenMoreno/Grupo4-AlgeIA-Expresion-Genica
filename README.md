@@ -69,7 +69,7 @@ Las cinco clases corresponden a distintos tipos de tumor. Los genes no apuntan a
 ## Estructura del repositorio
 
 ```
-📁 repositorio/
+Grupo4-AlgeIA-Expresion-Genica/
 ├── 📄 README.md                        ← Este archivo (informe completo)
 ├── 📄 Act_grupo_4_AlgeIA.Rmd           ← Código R completo (listo para Knit to HTML)
 ├── 📁 imagenes/
