@@ -103,7 +103,7 @@ library(e1071)        # SVM
 library(Rtsne)        # t-SNE
 library(umap)         # UMAP
 library(cluster)      # Clustering
-library(factoextra)   # Visualización de clustering y PCA 
+library(factoextra)   # Visualización de clustering y PCA  
 library(pROC)         # Curvas ROC
 ```
 
