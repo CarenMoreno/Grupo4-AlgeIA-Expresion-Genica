@@ -8,7 +8,7 @@
 
 ---
 
-## Índice
+## Índice 
 
 1. [Objetivo](#objetivo)
 2. [Descripción del dataset](#descripción-del-dataset)
