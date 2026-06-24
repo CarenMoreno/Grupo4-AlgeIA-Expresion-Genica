@@ -3,7 +3,7 @@
 **Materia:** Algoritmos e Inteligencia Artificial  
 **Carrera:** Maestría en Bioinformática  
 **Grupo:** 4  
-**Integrantes:** Analia Pastrana · Caren Moreno · Angel Guerrero  
+**Integrantes:** Analia Pastrana · Caren Moreno   
 **Fecha:** Junio 2026
 
 ---
