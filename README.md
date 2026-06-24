@@ -4,7 +4,7 @@
 **Carrera:** Maestría en Bioinformática  
 **Grupo:** 4  
 **Integrantes:** Analia Pastrana · Caren Moreno  
-**Fecha:** Junio 2026
+**Fecha:** Junio 2026 
 
 ---
 
